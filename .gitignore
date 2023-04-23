@@ -1,8 +1,8 @@
-# игнорировать файл
-# dark.css
+#игнорировать файл
+#dark.css
 
-# игнорировать файл в директории
-# js/my.js
+#ignore file in directory
+#js/my.js
 
-# игнорироать файл с расширением
+#ignore file with расширением
 *.mp3
